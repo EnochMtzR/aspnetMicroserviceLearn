@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using Catalog.API.Entities;
 using MongoDB.Driver;
